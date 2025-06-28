@@ -1,4 +1,4 @@
-How to Contact Magellan GPS Customer Care
+How to Contact Magellan GPS Customer Care?
 ==========================
 .. toctree::
    :maxdepth: 2
