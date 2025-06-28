@@ -5,7 +5,7 @@ How to Contact Magellan GPS Customer Care
    :caption: Contents: 
 
 
-.. image:: https://tvfubo.readthedocs.io/en/latest/
+.. image:: https://tvfubo.readthedocs.io/en/latest/_images/care.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
